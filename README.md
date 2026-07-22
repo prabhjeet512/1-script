@@ -37,5 +37,3 @@ btn.MouseButton1Click:Connect(function()
     frame.BackgroundColor3 = Color3.fromRGB(30,30,30)
     btn.Text = "FREEZE TRADE (VISUAL)"
 end)
-
--- Note: Actual trade freezing requires server-side exploits and is not possible with basic scripts.
